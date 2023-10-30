@@ -27,9 +27,7 @@ Para hacer el enroque debes tener en cuenta las siguientes condiciones:
 
 - El rey siempre debe estar en su posición original.
 - El rey nunca debe haberse movido previamente, es decir, el total de movimientos realizados debe ser 0.
-- Existen dos tipos de enroque:
--- Enroque largo: El rey se moverá dos casillas a la izquierda.
--- Enroque corte: El rey se moverá dos casillas a la derecha.
+- Existen dos tipos de enroque: Enroque largo (El rey se moverá dos casillas a la izquierda) y Enroque corto (El rey se moverá dos casillas a la derecha).
 
 En este repositorio GitHub hay un esqueleto de proyecto gradle que ya lleva incluidos todos los test necesarios que el programa debe pasar y las dependencias, entre ellas la de la librería entrada. 
 
