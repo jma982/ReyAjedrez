@@ -1,7 +1,8 @@
-package reyajedrez.modelo;
+package org.iesalandalus.programacion.modelo;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import org.iesaladanlus.programacion.reyajedrez.modelo.Direccion;
 import org.junit.jupiter.api.Test;
 
 

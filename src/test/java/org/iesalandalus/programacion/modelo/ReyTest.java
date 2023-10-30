@@ -1,11 +1,14 @@
-package reyajedrez.modelo;
+package org.iesalandalus.programacion.modelo;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 import javax.naming.OperationNotSupportedException;
 
-import org.junit.jupiter.api.BeforeAll;
+import org.iesaladanlus.programacion.reyajedrez.modelo.Color;
+import org.iesaladanlus.programacion.reyajedrez.modelo.Direccion;
+import org.iesaladanlus.programacion.reyajedrez.modelo.Posicion;
+import org.iesaladanlus.programacion.reyajedrez.modelo.Rey;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
