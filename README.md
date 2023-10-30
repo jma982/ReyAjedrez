@@ -18,7 +18,7 @@ Además, el rey tiene un movimiento especial, el enroque. Éste consiste en que 
 
 <div align="center">
 <p>
-<img alt="Posición inicial de los reyes en el tablero del ajedrez" src="src/main/resources/enroqueRey.png" />
+<img alt="Posición inicial de los reyes en el tablero del ajedrez" src="src/main/resources/enroqueRey.png" width="250px"/>
 </p>
 <p style="text-size: xx-small">Imágenes obtenidas de la web: <a href="https://www.123ajedrez.com/reglas-basicas/la-dama">123ajedrez.com</a> (Enrique Moreno)</p>
 </div>
