@@ -6,8 +6,8 @@ La tarea va a consistir en modelar el movimiento de un rey de ajedrez por el tab
 
 <div align="center">
 <p>
-<img alt="Posición inicial de los reyes en el tablero del ajedrez" src="src/main/resources/imgs/posicionRey.png" />
-<img alt="Movimiento del rey en un tablero del ajedrez" src="src/main/resources/imgs/movimientoRey.png" />
+<img alt="Posición inicial de los reyes en el tablero del ajedrez" src="src/main/resources/posicionRey.png" />
+<img alt="Movimiento del rey en un tablero del ajedrez" src="src/main/resources/movimientoRey.png" />
 </p>
 <p style="text-size: xx-small">Imágenes obtenidas de la web: <a href="https://www.123ajedrez.com/reglas-basicas/la-dama">123ajedrez.com</a> (Enrique Moreno)</p>
 </div>
@@ -18,7 +18,7 @@ Además, el rey tiene un movimiento especial, el enroque. Éste consiste en que 
 
 <div align="center">
 <p>
-<img alt="Posición inicial de los reyes en el tablero del ajedrez" src="src/main/resources/imgs/enroqueRey.png" />
+<img alt="Posición inicial de los reyes en el tablero del ajedrez" src="src/main/resources/enroqueRey.png" />
 </p>
 <p style="text-size: xx-small">Imágenes obtenidas de la web: <a href="https://www.123ajedrez.com/reglas-basicas/la-dama">123ajedrez.com</a> (Enrique Moreno)</p>
 </div>
@@ -35,7 +35,7 @@ En este repositorio GitHub hay un esqueleto de proyecto gradle que ya lleva incl
 
 Para ello te pongo un diagrama de clases para el mismo y poco a poco te iré explicando los diferentes pasos a seguir:
 
-<div align="center"><img alt="Diagrama de clases para reina de ajedrez" src="src/main/resources/imgs/diagramaClasesReyAjedrez.png" />
+<div align="center"><img alt="Diagrama de clases para reina de ajedrez" src="src/main/resources/diagramaClasesReyAjedrez.png" />
 </div>
 
 #### Primeros Pasos
