@@ -83,7 +83,7 @@ Para ello te pongo un diagrama de clases para el mismo y poco a poco te iré exp
 
 #### Clase `MainApp`
 
-1. Crea el atributo de clase `reina`. Realiza un commit.
+1. Crea el atributo de clase `rey`. Realiza un commit.
 2. Crea el método `ejecutarOpcion` que dependiendo de la opción pasada como parámetro, actuará en consecuencia. Realiza un commit.
 3. Crea el método `crearReyDefecto` que asignará al atributo de clase rey una nueva instancia de una rey creado con el constructor por defecto. Realiza un commit.
 4. Crea el método `crearReyColor` que asignará al atributo de clase rey una nueva instancia de una rey creado con el constructor al que le pasamos el color. Realiza un commit.
