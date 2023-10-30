@@ -1,4 +1,4 @@
-# Tarea Reina Ajedrez
+# Tarea Rey Ajedrez
 ## Profesor: Juan Antonio Muñoz Almansa
 ## Alumno:
 
